@@ -14,7 +14,7 @@ export const Navbar = () => {
         <>
             <header>
                     <div className="brand-name">
-                        <h1>Our Memos</h1>
+                        <h1>sumit chor ho</h1>
                     </div>
                     <nav>
                         <ul>
